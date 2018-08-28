@@ -1,0 +1,24 @@
+{
+	"PassMap":
+	{
+		"Forest_1_1": true,
+		"Forest_1_2": true,
+		"Forest_1_3": true,
+		"Forest_1_4": true,
+		"Forest_1_5": true,
+		"Forest_1_6": true,
+		"Forest_1_7": true,
+		"Forest_1_8": true
+	},
+	"LevelName":
+	{
+		"Forest_1_1": "HELLO WORLD",
+		"Forest_1_2": "UPWARD",
+		"Forest_1_3": "THE GAP",
+		"Forest_1_4": "NUTSHELL",
+		"Forest_1_5": "HOLY MOUTAIN",
+		"Forest_1_6": "BLADECATCHER",
+		"Forest_1_7": "DIVERGE",
+		"Forest_1_8": "THE BIT"
+	}
+}
